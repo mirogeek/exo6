@@ -1,0 +1,23 @@
+#test1{
+    display: flex;
+    margin: 5% 10%;
+}
+.test2{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.test3{
+    width: 50%;
+    text-justify: auto;
+    padding: 0% 10%;
+    line-height: 1.5;
+}
+.test3>h1{
+    margin: 0%;
+    color: greenyellow;
+}
+.test3>p{
+    margin: 0%;
+    color: white;
+}

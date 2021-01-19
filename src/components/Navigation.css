@@ -1,0 +1,12 @@
+#nav{
+    padding: 1%;
+    width: 50%;
+}
+#nav>button{
+    margin: 0.5%;
+    background-color: transparent;
+    color: white;
+    border: solid rgb(132, 206, 28) 2px;
+    padding: 10px;
+    /* border: none; */
+}
